@@ -1,0 +1,2 @@
+# AspireEnvironmentIsAlwaysDevelopment
+ASPNETCORE_ENVIRONMENT is always Development
